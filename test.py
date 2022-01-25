@@ -1,3 +1,4 @@
 x = 1
 y = 11
-print(f"The number is {x} and {y}")
+z = 20
+print(f"The number is {x}, {y} and {z}")
