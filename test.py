@@ -1,2 +1,3 @@
 x = 1
-print(f"The number is {x}")
+y = 11
+print(f"The number is {x} and {y}")
